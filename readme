@@ -1,2 +1,4 @@
-how to run
-run buid.sh
+### how to run
+```bash
+./buid.sh
+```
